@@ -1,0 +1,11 @@
+c:\users\ramya.vempalla\source\repos\AdoEmployee\AdoEmployee\bin\Debug\netcoreapp2.0\AdoEmployee.deps.json
+c:\users\ramya.vempalla\source\repos\AdoEmployee\AdoEmployee\bin\Debug\netcoreapp2.0\AdoEmployee.runtimeconfig.json
+c:\users\ramya.vempalla\source\repos\AdoEmployee\AdoEmployee\bin\Debug\netcoreapp2.0\AdoEmployee.runtimeconfig.dev.json
+c:\users\ramya.vempalla\source\repos\AdoEmployee\AdoEmployee\bin\Debug\netcoreapp2.0\AdoEmployee.dll
+c:\users\ramya.vempalla\source\repos\AdoEmployee\AdoEmployee\obj\Debug\netcoreapp2.0\AdoEmployee.csprojAssemblyReference.cache
+c:\users\ramya.vempalla\source\repos\AdoEmployee\AdoEmployee\obj\Debug\netcoreapp2.0\AdoEmployee.csproj.CoreCompileInputs.cache
+c:\users\ramya.vempalla\source\repos\AdoEmployee\AdoEmployee\obj\Debug\netcoreapp2.0\AdoEmployee.AssemblyInfoInputs.cache
+c:\users\ramya.vempalla\source\repos\AdoEmployee\AdoEmployee\obj\Debug\netcoreapp2.0\AdoEmployee.AssemblyInfo.cs
+c:\users\ramya.vempalla\source\repos\AdoEmployee\AdoEmployee\bin\Debug\netcoreapp2.0\AdoEmployee.pdb
+c:\users\ramya.vempalla\source\repos\AdoEmployee\AdoEmployee\obj\Debug\netcoreapp2.0\AdoEmployee.dll
+c:\users\ramya.vempalla\source\repos\AdoEmployee\AdoEmployee\obj\Debug\netcoreapp2.0\AdoEmployee.pdb
